@@ -19,5 +19,5 @@ namespace Statistics
 	};
 	template<typename T=double>
 	Stats<T> ComputeStatistics(const std::vector<T>& );
-	//Stats ComputeStatistics(const std::vector<float>&);
+	
 }
